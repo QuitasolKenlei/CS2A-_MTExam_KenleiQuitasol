@@ -1,1 +1,1 @@
-# CS2A-_MTExam_KenleiQuitasol
+# CS2C_MTExam_KenleiQuitasol
